@@ -1,0 +1,25 @@
+[editor]
+name = "Jingyi Yang"
+degree = "Undergraduate, 2022"
+
+[article.1]
+title = "Positive event diversity: Relationship with personality and well-being"
+doi = "https://doi.org/10.1111/jopy.12917"
+authors = "Patrick Klaiber, Patrick L. Hill, David M. Almeida, Anita DeLongis, Nancy L. Sin "
+journal = "Journal of personality"
+publish = "27 Jan 2024"
+category = "Affect"
+summary = "为了检查积极事件多样性的个性和幸福感的相关性，本研究对三个每日日记数据集进行了并行分析，发现积极事件多样性与较高的人均每日积极情绪相关，但与消极情绪无关，且无法证明人格是积极事件多样性与幸福感联系的调节因素。"
+abstract = "Objective: Examining the personality and well-being correlates of positive event diversity.Background: Past research has highlighted that personality traits are linked to the frequency of daily positive events. This study is the first to examine positive event diversity, the extent to which positive events are spread across multiple types of positive life domains, as well as its personality and well-being correlates.Method: We conducted parallel analyses of three daily diary datasets (Ns = 1919, 744, and 1392) that included evening assessment of daily positive events and affective well-being. The Big Five personality traits were assessed in baseline surveys.Results: Positive Event Diversity was related to higher person-mean daily positive affect but not negative affect. Higher Extraversion, Agreeableness, Openness, and lower Neuroticism were correlated with more positive event diversity. These associations became nonsignificant when controlling for positive event frequency. Positive event frequency moderated the link between positive event diversity and person-mean affect, such that higher positive event diversity was associated with higher negative and lower positive affect for people who experienced more frequent positive events.Conclusions: No consistent evidence was found for personality as a moderator of the positive event diversity–well-being link across the three studies. Further, the well-being implications of positive event diversity may be better understood when interpreting them alongside indexes of positive event frequency."
+keywords = "negative affect, openness, positive affect, uplifts"
+
+[article.2]
+title = "Personality dynamics turn positive and negative mood into creativity"
+doi = "https://doi.org/10.1111/jopy.12913"
+authors = "Ronald Bledow, Jana Kühnel, Julius Kuhl"
+journal = "Journal of personality"
+publish = "13 Jan 2024"
+category = "Affect/Mood"
+summary = "本研究挑战假设（创造力是作为对情感状态的刺激驱动的反应），并研究人格动态是否调节积极情绪和消极情绪与创造力之间的关系。结果发现当消极情绪下降且自我激励较高时，我们观察到创造力较高。行动-状态导向调节了积极和消极情绪与创造力的人内关系。人格动态能够决定积极和消极情绪是否会产生创造力。"
+abstract = "Introduction: Research on the link between affect and creativity rests on the assumption that creativity unfolds as a stimulus-driven response to affective states. We challenge this assumption and examine whether personality dynamics moderate the relationships between positive and negative mood with creativity.Theoretical Model: According to our model, personality dynamics that generate and maintain positive affect and downregulate negative affect energize creativity. Based on this model, we expect high creativity in response to negative mood if people engage in self-motivation and achieve a reduction in negative mood. We further derive that individual differences in action versus state orientation moderate the within-person relationship between mood and creativity.Method: We conducted an experience-sampling study and examined the relationship between mood and creativity in everyday work-life. Two hundred and ten participants indicated their action-state orientation and reported their mood three times a day over five consecutive workdays. At noon of each day, we assessed self-motivation and in the evening the extent to which participants had generated novel and useful ideas during the day.Results: We observed high creativity when negative mood declined and self-motivation was high. Action-state orientation moderated the within-person relationships of positive and negative mood with creativity.Conclusion: Personality dynamics determine whether positive and negative mood result in creativity."
+keywords = "action-state orientation, affect, creativity, mood, motivation, PSI theory"
